@@ -1,0 +1,1 @@
+docker build . -t matson-jboss5-eap
